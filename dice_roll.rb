@@ -5,5 +5,5 @@
 array = [1, 2, 3, 4, 5, 6]
 def roll(array)
   # code goes here
-  array.sample
+  rand(array)
 end
